@@ -1,16 +1,16 @@
 const entityConfig = {
-  name: "SoccerPlayer",
-  collection: "soccerplayers",
+  name: "Student",
+  collection: "students",
   fields: {
     id: { type: "Number", unique: true, required: false },
     name: { type: "String", required: true },
-    team: { type: "String", required: false },
-    position: { type: "String", required: false },
-    nationality: { type: "String", required: false },
-    year: { type: "Number", required: true },
-    goals: { type: "Number", required: true },
-    año: { type: "Number", required: false },
-    goles: { type: "Number", required: false }
+    email: { type: "String", required: false },
+    course: { type: "String", required: false },
+    age: { type: "Number", required: false },
+    grade: { type: "Number", required: true },
+    nota: { type: "Number", required: false },
+    passed: { type: "Boolean", required: false },
+    average: { type: "Number", required: false }
   },
   seedDataPath: "./data/initialData.json"
 };
