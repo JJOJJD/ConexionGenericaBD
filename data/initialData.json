@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "team": "Inter Miami",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "year": 2025,
+    "goals": 35,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "team": "Al Nassr",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "year": 2025,
+    "goals": 32,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 3,
+    "name": "Erling Haaland",
+    "team": "Manchester City",
+    "position": "Forward",
+    "nationality": "Norway",
+    "year": 2026,
+    "goals": 45,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappé",
+    "team": "Real Madrid",
+    "position": "Forward",
+    "nationality": "France",
+    "year": 2026,
+    "goals": 42,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 5,
+    "name": "Robert Lewandowski",
+    "team": "Barcelona",
+    "position": "Forward",
+    "nationality": "Poland",
+    "year": 2025,
+    "goals": 28,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 6,
+    "name": "Harry Kane",
+    "team": "Bayern Munich",
+    "position": "Forward",
+    "nationality": "England",
+    "year": 2025,
+    "goals": 38,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 7,
+    "name": "Mohamed Salah",
+    "team": "Liverpool",
+    "position": "Forward",
+    "nationality": "Egypt",
+    "year": 2026,
+    "goals": 30,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 8,
+    "name": "Vinícius Júnior",
+    "team": "Real Madrid",
+    "position": "Winger",
+    "nationality": "Brazil",
+    "year": 2026,
+    "goals": 25,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 9,
+    "name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "year": 2025,
+    "goals": 10,
+    "año": 0,
+    "goles": 0
+  },
+  {
+    "id": 10,
+    "name": "Jude Bellingham",
+    "team": "Real Madrid",
+    "position": "Midfielder",
+    "nationality": "England",
+    "year": 2026,
+    "goals": 18,
+    "año": 0,
+    "goles": 0
+  }
+]
