@@ -1,16 +1,16 @@
 const entityConfig = {
-  name: "Student",
-  collection: "students",
+  name: "PictureFrame",
+  collection: "picture_frames",
   fields: {
     id: { type: "Number", unique: true, required: false },
-    name: { type: "String", required: true },
-    email: { type: "String", required: false },
-    course: { type: "String", required: false },
-    age: { type: "Number", required: false },
-    semester: { type: "Number", required: false },
-    grade: { type: "Number", required: true },
-    passed: { type: "Boolean", required: false },
-    average: { type: "Number", required: false }
+    serial: { type: "String", required: true },
+    brand: { type: "String", required: true },
+    model: { type: "String", required: true },
+    date: { type: "String", required: true },
+    price: { type: "Number", required: true },
+    pice_time: { type: "Number", required: false },
+    description: { type: "String", required: false },
+    is_new: { type: "Boolean", required: true }
   },
   seedDataPath: "./data/initialData.json"
 };
